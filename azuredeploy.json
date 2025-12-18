@@ -27,7 +27,9 @@
         "currentStack": "dotnet",
         "netFrameworkVersion": "v8.0",
         "hostingPlanName": "[concat('AppServiceBasicDumpAnlysis_ASP', resourceGroup().name)]",
-        "appInsight": "[concat('AppServiceBasicDumpAnlysis_insights', parameters('webAppName'))]"
+        "appInsight": "[concat('AppServiceBasicDumpAnlysis_insights', parameters('webAppName'))]",
+        "repoURL": "https://github.com/chaseyangguang/BasicMemoryDumpAnalysisLabs.git",
+        "branch": "master"
     },
     "resources": [
         {
