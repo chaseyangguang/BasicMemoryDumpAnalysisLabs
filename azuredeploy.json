@@ -4,9 +4,9 @@
     "parameters": {
         "webAppName": {
             "type": "string",
-            "defaultValue": "[concat('ASPNET-', uniqueString(resourceGroup().id))]",
+            "defaultValue": "[concat('AppServiceBasicDumpAnlysis', uniqueString(resourceGroup().id))]",
             "metadata": {
-                "description": "That name is the name of our application. It has to be unique. Type a name followed by your resource group name. (<name>-<resourceGroupName>)"
+                "description": "The name of the web app that you need to create"
             }
         },
         "location": {
@@ -18,16 +18,16 @@
         }
     },
     "variables": {
-        "alwaysOn": false,
-        "sku": "Free",
-        "skuCode": "F1",
+        "alwaysOn": true,
+        "sku": "Standard",
+        "skuCode": "S1",
         "workerSize": "0",
         "workerSizeId": 0,
         "numberOfWorkers": "1",
         "currentStack": "dotnet",
-        "netFrameworkVersion": "v4.0",
-        "hostingPlanName": "[concat('hpn-', resourceGroup().name)]",
-        "appInsight": "[concat('insights-', parameters('webAppName'))]"
+        "netFrameworkVersion": "v8.0",
+        "hostingPlanName": "[concat('AppServiceBasicDumpAnlysis_ASP', resourceGroup().name)]",
+        "appInsight": "[concat('AppServiceBasicDumpAnlysis_insights', parameters('webAppName'))]"
     },
     "resources": [
         {
