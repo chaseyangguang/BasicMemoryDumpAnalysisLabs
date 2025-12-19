@@ -29,7 +29,7 @@
         "hostingPlanName": "[concat('AppServiceBasicDumpAnlysis_ASP', resourceGroup().name)]",
         "appInsight": "[concat('AppServiceBasicDumpAnlysis_insights', parameters('webAppName'))]",
         "repoURL": "https://github.com/chaseyangguang/BasicMemoryDumpAnalysisLabs.git",
-        "branch": "master"
+        "branch": "main"
     },
     "resources": [
         {
