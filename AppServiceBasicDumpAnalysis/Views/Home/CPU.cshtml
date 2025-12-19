@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "High CPU Reproducer";
+    var isRunning =  false;
+}
+
+<div style="font-family: system-ui; max-width: 720px; margin: 2rem auto;">
+    <h1>CPU Reproducer</h1>
+    <p>
+        <strong>Status:</strong>
+        <!--<span id="statusText">@((isRunning) ? "Running" : "Stopped")</span>-->
+        <span id="statusText">Stopped</span>
+    </p>
+
+    <div style="display:flex; gap:1rem; margin-top:1rem;">
+        <button id="btnStart" style="padding:.6rem 1rem;" asp-controller="CPU" asp-action="StartCPU" method="post">Reproduce High CPU</button>
+        <button id="btnStop" style="padding:.6rem 1rem;" asp-controller="CPU" asp-action="StopCPU" method="post">Stop</button>
+    </div>
+    <p style="margin-top:1rem; color:#b00;">
+        ⚠️ Use only in non‑production environments. High CPU may affect other workloads.
+    </p>
+</div>
+<script>
+        const statusText = document.getElementById('statusText');
+        const btnStart = document.getElementById('btnStart');
+        const btnStop  = document.getElementById('btnStop');
+
+        btnStart.addEventListener('click', async () => {
+            btnStart.disabled = true;
+            btnStop.disabled = false;
+            isRunning=true;
+            statusText.textContent="Running";
+            try {
+                  const res = await fetch('/CPU/StartCPU', { method: 'POST' });
+               // const json = await res.json();
+               // statusText.textContent = json.running ? 'Running' : 'Stopped';
+
+            } catch (e) {
+                alert('Start failed: ' + e);
+            } finally {
+                btnStop.disabled = false;
+            }
+        });
+
+        btnStop.addEventListener('click', async () => {
+            btnStop.disabled = true;
+            btnStart.disabled = false;
+            isRunning=false;
+            statusText.textContent="Stopped";
+            try {
+               const res = await fetch('/CPU/StopCPU', { method: 'POST' });
+               // const json = await res.json();
+               // statusText.textContent = json.running ? 'Running' : 'Stopped';
+            } catch (e) {
+                alert('Stop failed: ' + e);
+            } finally {
+                btnStart.disabled = false;
+            }
+        });
+    </script>
