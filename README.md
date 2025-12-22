@@ -8,5 +8,5 @@ ARM Template for deploying an App Service for (Perf) Basic Mermory dump anlaysis
 ## This arm deployment will provision:
 
 1.	An Azure App Sevice Plan
-2.	An Azure App Service4.	
-3.	Uses the git deploy App Service source code
+2.	An Azure App Service.	
+3.	Uses the git deploy App Service source code to the above app.
