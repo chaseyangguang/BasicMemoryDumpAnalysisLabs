@@ -3,13 +3,7 @@
 ARM Template for deploying an App Service for (Perf) Basic Mermory dump anlaysis training
 
 
-
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchaseyangguang%2FBasicMemoryDumpAnalysisLabs%2Fmain%2Fazuredeploy.json)
-
-
-
-
-
 
 
 ## This arm deployment will provision:
