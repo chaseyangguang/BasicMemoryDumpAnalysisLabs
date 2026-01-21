@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Trainings\\dump\\source code - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\controllers\\cpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\controllers\\cpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\slowness.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\slowness.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\memory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\memory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\crash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\crash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\throwexception.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\throwexception.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\cpu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\cpu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\views\\home\\cached.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\views\\home\\cached.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|c:\\trainings\\dump\\source code - copy\\appservicebasicdumpanalysis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30B24A03-288F-4223-A30C-39A3AC79D888}|AppServiceBasicDumpAnalysis\\AppServiceBasicDumpAnalysis.csproj|solutionrelative:appservicebasicdumpanalysis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.min.map",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACCKwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T06:26:15.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAA8/QAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-29T06:26:08.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAPEeAAAAAAAAAAAuwAAfAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-29T06:25:56.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPUController.cs",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Controllers\\CPUController.cs",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Controllers\\CPUController.cs",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Controllers\\CPUController.cs",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Controllers\\CPUController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:33:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Memory.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Memory.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Memory.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Memory.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Memory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T06:08:28.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:50:44.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slowness.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Slowness.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Slowness.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Slowness.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Slowness.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T09:36:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Crash.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Crash.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Crash.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Crash.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Crash.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T06:24:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB8AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T09:34:42.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThrowException.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\ThrowException.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\ThrowException.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\ThrowException.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\ThrowException.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T03:54:40.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CPU.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\CPU.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\CPU.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\CPU.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\CPU.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T11:59:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cached.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Cached.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Cached.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Cached.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Cached.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T12:29:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T06:08:44.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T09:50:40.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\Program.cs",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\Program.cs",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T02:25:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\appsettings.json",
+              "RelativeDocumentMoniker": "AppServiceBasicDumpAnalysis\\appsettings.json",
+              "ToolTip": "C:\\Trainings\\dump\\source code - Copy\\AppServiceBasicDumpAnalysis\\appsettings.json",
+              "RelativeToolTip": "AppServiceBasicDumpAnalysis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T02:12:07.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
